@@ -1,6 +1,10 @@
 # final-project-uts
 UTS Backend Programming : Final Project RESTful API Covid
 
+Nama  : Alwan Dwi Putra
+
+NIM   : 0110219101
+
 **Deskripsi**
 
 - Membangun RESTFul API untuk mendata pasien Covid.
@@ -13,4 +17,4 @@ UTS Backend Programming : Final Project RESTful API Covid
 - Final Project di-push ke Repository Github dan file .sql database (jika schema database berbeda).
 - Link Repository Github dan file .env dikirim ke elena.
 - Final Project tidak perlu dilakukan presentasi.
-**- Deadline: 20 November 2021.**
+- Deadline: 20 November 2021.
