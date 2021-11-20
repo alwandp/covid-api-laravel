@@ -2,7 +2,7 @@
 UTS Backend Programming : Final Project RESTful API Covid
 
 **Nama  : Alwan Dwi Putra**
-**NIM   : 0110219101**
+ **NIM   : 0110219101**
 
 **Deskripsi**
 
